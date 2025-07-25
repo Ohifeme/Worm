@@ -2,7 +2,7 @@ import socket
 import paramiko
 import telnetlib
 import paramiko.client
-import os #unnecessary?
+import os 
 import time
 import subprocess
  
